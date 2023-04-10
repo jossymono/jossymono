@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jossymono
-- 👀 I’m interested in frontend job<HTML,CSS,bootstrap,JAVASCRIPT>
-- 🌱 I’m currently learning JAVASCRIPT.
+- 👀 PROUDLY UNILORITE ||  FULL-STACK  || MONGOOSE || MONGODB || JQUERY || GIT || NODE.JS || EXPRESS.JS || RESTFUL APIs || REACT.JS || ES6 || BOOSTRAP || SAILS.JS||
 - 💞️ I’m looking to collaborate on any project of frontend and intern.
 - 📫 How to reach me ...
 - TWITTER: _jossymono
