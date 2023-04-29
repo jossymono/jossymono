@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jossymono
+- 👋 Hi, I’m Eseha Joseph Ilerioluwa
 - 👀 PROUDLY UNILORITE ||  FULL-STACK  || MONGOOSE || MONGODB || JQUERY || GIT || NODE.JS || EXPRESS.JS || RESTFUL APIs || REACT.JS || ES6 || BOOSTRAP || SAILS.JS||
-- 💞️ I’m looking to collaborate on any project of frontend and intern.
+- 💞️ I’m looking to collaborate on any project of frontend and Backend.
+- i am available for both internship and fulltime role.
 - 📫 How to reach me ...
-- TWITTER: _jossymono
+- TWITTER: https://twitter.com/_Jossymono?t=83PQ5F9yGAImewCfhe06rw&s=09
 - WHATSAPP: +2347042549915
 - EMAIL: josepheseha335@gmail.com
-- 
+- LinkedIn:https://www.linkedin.com/in/jossymono
